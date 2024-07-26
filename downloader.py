@@ -10,7 +10,7 @@ project_dir = os.path.dirname(os.path.realpath(__file__))
 
 
 id = 1    # starting id.
-max = 100000   # finish scraping after reaching max id.
+max = 7777   # finish scraping after reaching max id.
 
 
 
