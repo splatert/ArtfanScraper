@@ -17,3 +17,6 @@ Masowe pobieranie tapet z artfan.net
 5. Run the program
 
 Any retrieved images will be downloaded to the "wallpapers" folder that's inside the project directory.
+
+
+Note: Images usually start downloading around ID number 18.
